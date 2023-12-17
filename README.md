@@ -1,19 +1,18 @@
 
-<h1 style="text-align:center;">Hello there!! 👋<br /> I'm Federico Paci.</h1>
+<h1 align='center'>Hello there!! 👋<br /> I'm Federico Paci.</h1>
  
-<div style="text-align: center;"> 
+<h4 align='center'>
   I live in Mendoza, Argentina and work at <b>Frubana</b> as a Sr Data Engineer.<br /> I consider myself as a Data Developer, being exposed to different BI, Data Science and Data Engineer projects.<br />
-</div>
+</h4>
 
 
-<div style="text-align: center;">
+<p align='center'>
+    Contact me:
     <br />
-    Contact me:<br />
-    <br />
-    <img alt="Linkedin Profile" src="https://img.shields.io/badge/linkedin-%230A66C2?style=for-the-badge&logo=linkedin&logoColor=white&link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Ffpaci">    
-    <img alt="Email Gmail" src="https://img.shields.io/badge/gmail-%23EA4335?style=for-the-badge&logo=gmail&logoColor=white&link=mailto%3Afmpaci88%40gmail.com">
-    <img alt="My CV" src="https://img.shields.io/badge/Read_My_CV-1185424995313270876?style=for-the-badge&logo=readdotcv&link=fmpaci.github.io">
-</div>
+    <a href="https://www.linkedin.com/in/fpaci"><img src="https://img.shields.io/badge/linkedin-%230A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+    <a href="mailto%3Afmpaci88%40gmail.com"><img src="https://img.shields.io/badge/gmail-%23EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+    <a href="fmpaci.github.io"><img src="https://img.shields.io/badge/Read_My_CV-1185424995313270876?style=for-the-badge&logo=readdotcv" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+</p>
 
 
 
