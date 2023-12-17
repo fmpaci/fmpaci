@@ -11,7 +11,7 @@
     <br />
     <a href="https://www.linkedin.com/in/fpaci"><img src="https://img.shields.io/badge/linkedin-%230A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
     <a href="mailto%3Afmpaci88%40gmail.com"><img src="https://img.shields.io/badge/gmail-%23EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-    <a href="fmpaci.github.io"><img src="https://img.shields.io/badge/Read_My_CV-1185424995313270876?style=for-the-badge&logo=readdotcv" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+    <a href="https://fmpaci.github.io"><img src="https://img.shields.io/badge/Read_My_CV-1185424995313270876?style=for-the-badge&logo=readdotcv" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
 
 
