@@ -51,11 +51,7 @@
   <a href="https://spark.apache.org/docs/latest/api/python/"><img src="https://img.shields.io/badge/Pyspark-%2B2-blue?style=for-the-badge&logo=apachespark&logoColor=%23E25A1C&labelColor=%23E6E6E6" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
 
-**Data Visualization**
-<p align='left'>
-  <a href="https://www.looker.com/"><img src="https://img.shields.io/badge/looker-3670A0.svg?&style=for-the-badge&logo=looker&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://superset.apache.org/"><img src="https://img.shields.io/badge/apache_superset-114f63.svg?&style=for-the-badge&logo=superset&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-</p>
+
 
 **Documentation**
 <p align='left'>
