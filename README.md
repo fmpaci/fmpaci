@@ -15,42 +15,40 @@
 
 
 
-## Stack Technologies
+## Stack Technologies + Experience on them
+
 **Cloud Infrastructure**
 <p align='left'>
-    <a href="https://aws.amazon.com/"><img src="https://img.shields.io/badge/Amazon_Web_Services-orange.svg?&style=for-the-badge&logo=amazon-aws&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-    <a href="https://aws.amazon.com/cloudformation/"><img src="https://img.shields.io/badge/cloudformation-878280.svg?&style=for-the-badge&logo=amazon-aws-cloudformation&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+    <a href="https://aws.amazon.com/"><img src="https://img.shields.io/badge/(AWS)_Amazon_Web_Services-%2B2-blue?style=for-the-badge&logo=amazonaws&logoColor=%23232F3E&labelColor=%23E6E6E6" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
+
 
 **Scripting**
 <p align='left'>
-    <a href="https://www.python.org/"><img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffffff" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-    <a href=""><img src="https://img.shields.io/badge/sql-878280?style=for-the-badge&logo=sql&logoColor=ffffff" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-</p>
-
-**Orchestration**
-<p align='left'>
-  <a href="https://airflow.apache.org/"><img src="https://img.shields.io/badge/Apache_Airflow-2f8780.svg?&style=for-the-badge&logo=apache-airflow" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-</p>
-
-**Containers**
-<p align='left'>
-  <a href="https://www.docker.com/"><img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+    <a href="https://es.wikipedia.org/wiki/SQL"><img src="https://img.shields.io/badge/SQL-%2B12-blue?style=for-the-badge&logo=adminer&logoColor=%234053D6&labelColor=%23E6E6E6"/></a>&nbsp;&nbsp;
+    <a href="https://www.python.org/"><img src="https://img.shields.io/badge/python-%2B3-blue?style=for-the-badge&logo=python&labelColor=%23E6E6E6" /></a>&nbsp;&nbsp 
 </p>
 
 **Data Base - Data Warehouse - Data Lake**
 <p align='left'>
-    <a href="https://www.postgresql.org/"><img src="https://img.shields.io/badge/PostgreSQL-blue.svg?&style=for-the-badge&logo=postgresql&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-    <a href="https://aws.amazon.com/redshift/"><img src="https://img.shields.io/badge/Redshift+2-878280.svg?&style=for-the-badge&logo=amazonredshift&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-    <img alt="Teradata" src="https://img.shields.io/badge/teradata-%2B4-blue?style=for-the-badge&logo=teradata&logoColor=%23F37440
-">
+    <a href=""><img src="https://img.shields.io/badge/SQL%20Server-%2B7-blue?style=for-the-badge&logo=microsoftsqlserver&logoColor=%23CC2927&labelColor=E6E6E6"/></a>&nbsp;&nbsp;
+    <a href="https://teradata.com"><img src="https://img.shields.io/badge/teradata-%2B4-blue?style=for-the-badge&logo=teradata&logoColor=%23F37440&labelColor=E6E6E6" /></a>&nbsp;&nbsp
+    <a href="https://www.postgresql.org/"><img src="https://img.shields.io/badge/PostgreSQL-%2B3-blue?style=for-the-badge&logo=postgresql&logoColor=4169E1&labelColor=E6E6E6" /></a>&nbsp&nbsp;
+    <a href="https://aws.amazon.com/redshift/"><img src="https://img.shields.io/badge/Redshift-%2B2-blue?style=for-the-badge&logo=amazonredshift&logoColor=8C4FFF&labelColor=E6E6E6" /></a>&nbsp;&nbsp
+</p>
+
+**Orchestration**
+<p align='left'>
+    <a href="https://airflow.apache.org/"><img src="https://img.shields.io/badge/Airflow-%2B2-blue?style=for-the-badge&logo=apacheairflow&logoColor=%23017CEE&labelColor=%23E6E6E6" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+    <a href="https://www.informatica.com/platform/powercenter-cloud-modernization.html"><img src="https://img.shields.io/badge/(IPC)Informatica_Power_Center-%2B1-blue?style=for-the-badge&logo=informatica&logoColor=%23FF4D00&labelColor=%23E6E6E6"/></a>&nbsp;&nbsp;
 </p>
 
 
 **Data Processing**
 <p align='left'>
-  <a href="https://pandas.pydata.org/"><img src="https://img.shields.io/badge/Pandas-3670A0.svg?&style=for-the-badge&logo=pandas&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://spark.apache.org/docs/latest/api/python/"><img src="https://img.shields.io/badge/Pyspark-orange.svg?&style=for-the-badge&logo=apache-spark&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://spark.apache.org/docs/latest/api/python/"><img src="https://img.shields.io/badge/Glue-%2B2-blue?style=for-the-badge&logo=amazonaws&logoColor=%23232F3E&labelColor=%23E6E6E6" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://pandas.pydata.org/"><img src="https://img.shields.io/badge/Pandas-%2B2-blue?style=for-the-badge&logo=pandas&logoColor=%23150458&labelColor=%23E6E6E6" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://spark.apache.org/docs/latest/api/python/"><img src="https://img.shields.io/badge/Pyspark-%2B2-blue?style=for-the-badge&logo=apachespark&logoColor=%23E25A1C&labelColor=%23E6E6E6" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
 
 **Data Visualization**
@@ -59,17 +57,20 @@
   <a href="https://superset.apache.org/"><img src="https://img.shields.io/badge/apache_superset-114f63.svg?&style=for-the-badge&logo=superset&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
 
-**Data Transformation - Data Validation**
+**Documentation**
 <p align='left'>
-  <a href="https://www.getdbt.com/"><img src="https://img.shields.io/badge/dbt-de5d40.svg?&style=for-the-badge&logo=dbt&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://greatexpectations.io/"><img src="https://img.shields.io/badge/great_expectations-de5d40.svg?&style=for-the-badge&logo=great-expectations&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://www.docker.com/"><img src="https://img.shields.io/badge/Confluence-%2B3-blue?style=for-the-badge&logo=confluence&logoColor=%23172B4D&labelColor=%23E6E6E6" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href=""><img src=""/></a>&nbsp;&nbsp;
 </p>
 
 
-
-**Testing**
+**Version Control System**
 <p align='left'>
-  <a href="https://docs.pytest.org/"><img src="https://img.shields.io/badge/pytest-0fa7d1.svg?&style=for-the-badge&logo=pytest&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+    <a href="https://git-scm.com/"><img src="https://img.shields.io/badge/GIT-%2B5-blue?style=for-the-badge&logo=git&logoColor=%23F05032&labelColor=%23E6E6E6"/></a>&nbsp;&nbsp;
 </p>
 
+**Containers**
+<p align='left'>
+  <a href="https://www.docker.com/"><img src="https://img.shields.io/badge/Docker-%2B1-blue?style=for-the-badge&logo=docker&logoColor=%232496ED&labelColor=%23E6E6E6" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+</p>
 
