@@ -56,7 +56,6 @@
 **Documentation**
 <p align='left'>
   <a href="https://www.docker.com/"><img src="https://img.shields.io/badge/Confluence-%2B3-blue?style=for-the-badge&logo=confluence&logoColor=%23172B4D&labelColor=%23E6E6E6" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href=""><img src=""/></a>&nbsp;&nbsp;
 </p>
 
 
