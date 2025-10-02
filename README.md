@@ -2,7 +2,7 @@
 <h1 align='center'>Hello there!! 👋<br /> I'm Federico Paci.</h1>
  
 <h4 align='center'>
-  I live in Mendoza, Argentina and work at <b>Frubana</b> as a Sr Data Engineer.<br /> I consider myself as a Data Developer, being exposed to different BI, Data Science and Data Engineer projects.<br />
+  I live in Viña del Mar, Chile and I have a lot of experience as Data Engineer.<br /> I consider myself as a Data Developer, being exposed to different BI, Data Science and Data Engineer projects.<br />
 </h4>
 
 
